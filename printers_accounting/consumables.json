@@ -1,0 +1,37 @@
+[
+    {
+        "warehouse": "Этаж 8",
+        "location": "Наш кабинет",
+        "type": "Принт-картридж",
+        "color": "Черный",
+        "article": "TL-5120",
+        "model": "Pantum BM5100ADW",
+        "quantity": 2,
+        "min_quantity": 1,
+        "id": "46112534-586f-4ed0-add6-ac01ebf72c5a",
+        "printer": "Pantum BM5100ADW"
+    },
+    {
+        "warehouse": "Этаж 11",
+        "location": "Все",
+        "printer": "Xerox 7020/7025",
+        "type": "Принт-картридж",
+        "color": "Черный",
+        "article": "106R03745",
+        "quantity": 2,
+        "min_quantity": 1,
+        "id": "9b341ea3-1b3c-4b6f-aa22-955dbcd0fa9b"
+    },
+    {
+        "warehouse": "Этаж 10",
+        "location": "1003",
+        "type": "Принт-картридж",
+        "color": "Черный",
+        "article": "106R02778",
+        "model": "Xerox 3215",
+        "quantity": 1,
+        "min_quantity": 2,
+        "id": "33248bbf-21d5-46fe-bfab-501282d726a7",
+        "printer": "Xerox 3215"
+    }
+]
