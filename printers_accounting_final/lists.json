@@ -1,0 +1,21 @@
+{
+    "warehouses": [
+        "Этаж 8",
+        "Этаж 11"
+    ],
+    "locations": {},
+    "printers": [],
+    "item_types": [
+        "Драм-картридж",
+        "Печь",
+        "Принт-картридж",
+        "Отходник",
+        "Другое"
+    ],
+    "deleted": {
+        "warehouses": [],
+        "locations": [],
+        "printers": [],
+        "item_types": []
+    }
+}
